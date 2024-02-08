@@ -1,1 +1,3 @@
 Ola Pessoal, sejam bem vindos ao meu GitHub!
+
+👨‍💻 Programador iniciante e entusiasta da tecnologia, atualmente cursando Analise e Desenvolvimento de Sistemas na Universidade Federal do Tocantins. 🎓 Instrutor de informática com experiência em ensinar conceitos básicos e avançados de informatica e tecnoligias para iniciantes. 💡 Apaixonado por aprender novas linguagens e frameworks, sempre em busca de aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.🌱 Atualmente focado em aprofundar meus estudos em desenvolvimento web e back-end, especialmente em tecnologias como HTML, CSS, JavaScript e Java. 🚀 Em constante evolução e aberto a colaborações e oportunidades para contribuir em projetos interessantes!
